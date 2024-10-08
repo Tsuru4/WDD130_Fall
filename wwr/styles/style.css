@@ -16,23 +16,23 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #596DB1;
+    background-color: #3ed392;
 }
 body {
     background-color: white;
 }
 header {
-    background-color: #596DB1;
+    background-color: #3ed392;
 }
 nav a:hover {
-    background-color: #596DB1
+    background-color: #3ed392
 }
 .book, .join {
-    background-color: #596DB1;
+    background-color: #3ed392;
 }
 .msg {
-    background-color: #596DB1;
+    background-color: #3ed392;
 }
 footer {
-    background-color: #596DB1;
+    background-color: #3ed392;
 }
