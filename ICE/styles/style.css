@@ -1,0 +1,14 @@
+#nelson-picture {
+    max-width: 200px;
+    margin:auto;
+}
+#content {
+    background-color: #5CA1D7;
+    max-width: 400px;
+    margin: auto;
+    display:inline-flex;
+}
+.header-text:hover {
+    color:white;
+    font-weight: 700;
+}
