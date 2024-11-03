@@ -10,8 +10,9 @@ Fonts are separated by a | */
   --accent2-color: #000000;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: fantasy, 'Ariel Bold', monospace;
+  --heading-font: fantasy, cursive, monospace;
   --paragraph-font: Courier, serif, monospace;
+
 
   /* my colors */
   --headline-color-on-white: var(--accent1-color);  /* headlines on a white background */ 
